@@ -1,1 +1,1 @@
-# exoplanets_classification
+# Exoplanets Classification
